@@ -1,0 +1,5 @@
+SERVICE_TOKEN = '12f9b8e112f9b8e112f9b8e11f129ecfae112f912f9b8e14ee922fd8280d143334916b4'
+
+API_URL_METHODS = 'https://api.vk.com/method/'
+
+VERSION = '5.92'
